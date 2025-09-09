@@ -5,3 +5,7 @@
 p {
     font-size: 20px;
 }
+
+p .teste1 {
+    color: blueviolet;
+}
