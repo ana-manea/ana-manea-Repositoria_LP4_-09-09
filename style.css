@@ -6,6 +6,6 @@ p {
     font-size: 20px;
 }
 
-p .teste1 {
-    color: blueviolet;
+.teste1{
+    background-color: yellowgreen;
 }
